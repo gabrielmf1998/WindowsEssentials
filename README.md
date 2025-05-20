@@ -15,7 +15,7 @@ Este programa NÃO É VIRUS ✅, o .ps1 está disponível publico justamente par
 ![Texto alternativo](https://i.postimg.cc/25fKhx9K/image.png)
   
 O problema é que fazer um .exe que baixa programas da internet é obvio de mais para o anti-virus.  
-Mas é só um aviso, o Windows Defender não impede de executar, nem tenta impedir na verdade, vai ver é porque não é virus 😒😑
+Mas é só um aviso, o Windows Defender não impede de executar, nem tenta impedir na verdade, vai ver é porque não é virus 😒😑  
 Na dúvida baixe o .ps1 e converta você mesmo 👌
 
 ## Que programas ele tem atualmente? ❓
