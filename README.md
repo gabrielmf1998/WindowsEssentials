@@ -6,7 +6,7 @@ Isso é ótimo para máquinas recém formatadas, onde se torna útil instalar v�
 ## Interface GUI ✅
 
 Meu programa tem interface GUI simples feito com System.Windows.Forms.
-Utilizei PowerShell Pro Tools disponível no VisualStudioCode para formatação, dimentação e tamanho das janenas.
+Utilizei PowerShell Pro Tools disponível no VisualStudioCode para formatação, dimenção e tamanho das janelas.
 
 ## Aviso de Virus ⚠️
 
