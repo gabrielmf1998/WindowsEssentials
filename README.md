@@ -17,7 +17,7 @@ Na dúvida baixe o .ps1 e converta você mesmo para .exe 👌
 ## Que programas ele tem atualmente? ❓
 
 Segue lista completa:
-<img src="https://i.postimg.cc/5tKHcHVf/Programas.png"
+![Texto alternativo](https://i.postimg.cc/5tKHcHVf/Programas.png)
 
 ### Conformidade e Compatibilidade
 
