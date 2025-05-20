@@ -10,13 +10,17 @@ Utilizei PowerShell Pro Tools disponível no VisualStudioCode para formatação,
 
 ## Aviso de Virus ❌
 
-Este programa, ele é livre de virus, o .ps1 está disponível publico justamente para qualquer um poder olhar.
+Este programa, ele é livre de virus, o .ps1 está disponível publico justamente para qualquer um poder olhar.  
+
+![Texto alternativo](https://i.postimg.cc/25fKhx9K/image.png)
+  
 O problema é que fazer um .exe que baixa programas da internet é obvio de mais para o anti-virus.
-Na dúvida baixe o .ps1 e converta você mesmo para .exe 👌
+Na dúvida baixe o .ps1 e converta você mesmo 👌
 
 ## Que programas ele tem atualmente? ❓
 
 Segue lista completa:  
+  
 ![Texto alternativo](https://i.postimg.cc/5tKHcHVf/Programas.png)
 
 ### Conformidade e Compatibilidade
