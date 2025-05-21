@@ -8,9 +8,9 @@ Isso é ótimo para máquinas recém formatadas, onde se torna útil instalar v�
 Meu programa tem interface GUI simples feito com System.Windows.Forms.
 Utilizei PowerShell Pro Tools disponível no VisualStudioCode para formatação, dimenção e tamanho das janelas.
 
-## Aviso de Virus ⚠️
+## Aviso de Segurança ⚠️
 
-Este programa NÃO É VIRUS ✅, o .ps1 está disponível justamente para qualquer um poder olhar o código.  
+O .ps1 está disponível justamente para qualquer um poder olhar o código.  
 
 ![Texto alternativo](https://i.postimg.cc/25fKhx9K/image.png)
   
