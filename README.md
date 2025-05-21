@@ -28,4 +28,5 @@ Segue lista completa:
 
 ![Texto alternativo](https://i.postimg.cc/25fKhx9K/image.png)
   
-É apenas um aviso do Windows Defender 👌
+É apenas um aviso do Windows Defender 👌  
+A ferramenta vai continuar funcionando normalmente.
