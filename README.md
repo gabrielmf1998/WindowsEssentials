@@ -24,7 +24,7 @@ Segue lista completa:
 - Convertíveis em `.exe`
 - Ferramenta recomendada: [ps2exe](https://github.com/MScholtes/PS2EXE).
 
-- ## Aviso de Segurança ⚠️
+## Aviso de Segurança ⚠️
 
 ![Texto alternativo](https://i.postimg.cc/25fKhx9K/image.png)
   
