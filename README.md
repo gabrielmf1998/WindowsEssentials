@@ -8,14 +8,6 @@ Isso é ótimo para máquinas recém formatadas, onde se torna útil instalar v�
 Meu programa tem interface GUI simples feito com System.Windows.Forms.
 Utilizei PowerShell Pro Tools disponível no VisualStudioCode para formatação, dimenção e tamanho das janelas.
 
-## Aviso de Segurança ⚠️
-
-O .ps1 está disponível justamente para qualquer um poder olhar o código.  
-
-![Texto alternativo](https://i.postimg.cc/25fKhx9K/image.png)
-  
-É apenas um aviso do Windows Defender 👌
-
 ## Que programas ele tem atualmente? ❓
 
 Segue lista completa:  
@@ -31,3 +23,9 @@ Segue lista completa:
 
 - Convertíveis em `.exe`
 - Ferramenta recomendada: [ps2exe](https://github.com/MScholtes/PS2EXE).
+
+- ## Aviso de Segurança ⚠️
+
+![Texto alternativo](https://i.postimg.cc/25fKhx9K/image.png)
+  
+É apenas um aviso do Windows Defender 👌
