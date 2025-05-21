@@ -1,7 +1,9 @@
 ## Windows Essentials 📒
 
 Esse programa que fiz tem o objetivo de baixar e instalar outros programas da internet.
-Isso é ótimo para máquinas recém formatadas, onde se torna útil instalar vários programas ao mesmo tempo.
+Isso é ótimo para máquinas recém formatadas, onde se torna útil instalar vários programas ao mesmo tempo.  
+
+Não somente isso, mas cara botão é configurável para qualquer coisa, por exemplo executar scripts ou comandos, podendo se adaptar a qualquer automatização.
 
 ## Interface GUI ✅
 
